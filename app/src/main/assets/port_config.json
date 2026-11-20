@@ -1,0 +1,17 @@
+{
+  "app_name": "kenzu-windows-2026-10-26",
+  "package_id": "com.pixelport.kenzuwindows20261026",
+  "source_dir": "/data/data/com.termux/files/home/storage/downloads/kenzu-windows-2026-10-26",
+  "main_executable": "Kenzu.exe",
+  "executables_found": [
+    "Kenzu.exe"
+  ],
+  "size_mb": 3178.81,
+  "detected_engine": "Unity Engine (PC Build)",
+  "runtime_target": "unity_pc_container",
+  "touch_profile": "action_2d",
+  "orientation": "landscape",
+  "status": "ready_for_template",
+  "controls_file": "/data/data/com.termux/files/home/PixelPort/builds/com.pixelport.kenzuwindows20261026/controls.json",
+  "game_data_link": "/data/data/com.termux/files/home/PixelPort/builds/com.pixelport.kenzuwindows20261026/game_data"
+}
